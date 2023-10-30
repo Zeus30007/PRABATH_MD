@@ -27,7 +27,7 @@
           "webss": "https://api.botcahx.biz.id/api/tools/ssweb?link=${text}&apikey=${Config.botapikey}",
           "apkdown": "https://sl-bot-devolopers-team.herokuapp.com/api/apkdownload?appid=${text}",
           "ttdownnima": "https://sl-bot-devolopers-team.herokuapp.com/api/tiktokdl?url=https://developers.tiklydown.me/api/download?url=${text}",
-          "promote": "Admin Role Given to my Darling",
+          "promote": "Admin Role Given to cadet",
           "pmallow": "*Hii,This is Secktor*\n*An assistant of My Master.*\nMy Master is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
           "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _Powered by *PRABATH-MD-WHATSAPP-BOT*_",
           "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s)._\n\n *Powered by *PRABATH-MD-WHATSAPP-BOT**",
